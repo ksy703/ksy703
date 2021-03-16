@@ -8,7 +8,7 @@ and interested in Web, Mobile and Cloud ✨
 </p>
 <h3>📚 Technology Stack 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/-C-ff69b4"/>&nbsp
+  <img src="https://img.shields.io/badge/-C#-6a1b9a"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-MSSQL-red"/>&nbsp
   <img src="https://img.shields.io/badge/-Kotlin-ff69b4"/>
