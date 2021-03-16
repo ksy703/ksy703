@@ -7,7 +7,7 @@ I'm Soyeon Kim, 🌱 <br>
 and interested in Web, Mobile and Cloud ✨
 </p>
 <h3>📚 Technology Stack 📚</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-C%23-6a1b9a"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-MSSQL-red"/>&nbsp
