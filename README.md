@@ -1,9 +1,7 @@
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeon%20Kim&fontSize=90)
+
 ### Hi there 👋
-
-<!--
-**ksy703/ksy703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=Soyeon%20Kim&fontSize=90)
