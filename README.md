@@ -8,18 +8,18 @@ and interested in Web, Mobile and Cloud ✨
 </p>
 <h3>📚 Technology Stack 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/-C#-purple"/>&nbsp
+  <img src="https://img.shields.io/badge/-C&#35-purple"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-MSSQL-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-MSSQL-red"/>&nbsp
   <img src="https://img.shields.io/badge/-Kotlin-purple"/>
   <br>
   <img src="https://img.shields.io/badge/-jQuery-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-react-blue"/>
+  <img src="https://img.shields.io/badge/-react-9cf"/>
   <br>
   <img src="https://img.shields.io/badge/-AWS-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Azure-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-GCP-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Azure-9cf"/>&nbsp
+  <img src="https://img.shields.io/badge/-GCP-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
