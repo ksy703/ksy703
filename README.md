@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeon%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeon%20Kim&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
